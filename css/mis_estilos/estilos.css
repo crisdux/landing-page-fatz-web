@@ -1,0 +1,13 @@
+.img-dux {
+   width: 15%
+}
+
+.navbar{
+   box-shadow: 2px 2px 5px #000;  /*borde inferior sombreado*/ 
+   opacity: 0.9;
+}
+
+/*color de texto del navbar*/
+.navbar .nav-item .nav-link{
+   color: #fff;
+}
