@@ -2,6 +2,10 @@
    width: 10%;
 }
 
+.logo-dux{
+   width: 100%;
+}
+
 .navbar{
    box-shadow: 2px 2px 5px #000;  /*borde inferior sombreado*/ 
    opacity: 0.9;
@@ -32,6 +36,6 @@
    border-radius: 0;
 }
 
-.team{
+.team, footer{
    background:rgba(241,196,15 ,0.6);
 }
